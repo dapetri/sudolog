@@ -1,0 +1,1 @@
+in_range(X) :- integer(X), X<10, X>0.
